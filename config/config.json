@@ -1,0 +1,27 @@
+{
+"development": {
+  "username": "juant",
+  "password": "juantp",
+  "database": "TEST",
+  "host": "127.0.0.1",
+  "dialect": "mssql",
+  "dialectOptions": {
+    "dialect": "mssql",
+    "trustServerCertificate": true
+  }
+  },
+  "test": {
+    "username": "juant",
+    "password": "juantp",
+    "database": "TEST",
+    "host": "127.0.0.1",
+    "dialect": "mssql"
+  },
+  "production": {
+    "username": "juant",
+    "password": "juantp",
+    "database": "TEST",
+    "host": "127.0.0.1",
+    "dialect": "mssql"
+  }
+}
